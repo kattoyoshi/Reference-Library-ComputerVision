@@ -14,6 +14,26 @@
 - AdaBoost
   - [Experiments with a New Boosting Algorithm](http://www.cis.upenn.edu/~mkearns/teaching/COLT/boostingexperiments.pdf) by Y. Freund et al., 1996.
 
+## Region Proposal
+- Graph-Based Segmentation
+  - [Efficient Graph-Based Image Segmentation](http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf) by P.F. Felzenszwalb et al., 2004.
+
+- Objectness
+  - [What is an object?](https://ieeexplore.ieee.org/document/5540226) by B. Alexe et al., 2010.
+  - [Measuring the objectness of image windows](http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/alexe12pami.pdf) by B. Alexe et al., 2012.
+
+- Selective Search
+  - [Selective Search for Object Recognition](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf) by J. R. R. Uijlings et al., 2013.
+ 
+- Category Independent Object Proposals
+  - [Category Independent Object Proposals](http://dhoiem.cs.illinois.edu/publications/eccv2010_CategoryIndependentProposals_ian.pdf) by I. Endres and D. Hoiem, 2010.
+
+- BING
+  - [BING: Binarized Normed Gradients for Objectness Estimation at 300fps](https://www.robots.ox.ac.uk/~vgg/rg/papers/14cvprObjectnessBING.pdf) by Ming-Ming Cheng et al., 2014.
+
+- MCG
+  - [Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation](https://arxiv.org/abs/1503.00848) by J. Pont-Tuset et al., 2015.
+  
 ## Segmentation or/and Object Detection
-- [Efficient Graph-Based Image Segmentation](http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf) by P.F. Felzenszwalb et al., 2004.
-- [Selective Search for Object Recognition](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf) by J. R. R. Uijlings et al., 2013.
+
+
