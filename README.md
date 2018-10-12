@@ -33,7 +33,9 @@
 
 - MCG
   - [Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation](https://arxiv.org/abs/1503.00848) by J. Pont-Tuset et al., 2015.
-  
-## Segmentation or/and Object Detection
+
+## Deep Learning
+Key Point Detection
+- [Facial Key Points Detection using Deep Convolutional Neural Network - NaimishNet](https://arxiv.org/abs/1710.00977) by N. Agarwal et al., 2017.
 
 
