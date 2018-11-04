@@ -38,4 +38,5 @@
 Key Point Detection
 - [Facial Key Points Detection using Deep Convolutional Neural Network - NaimishNet](https://arxiv.org/abs/1710.00977) by N. Agarwal et al., 2017.
 
-
+Image Captioning
+- [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) by O. Vinyals et al., 2014.
