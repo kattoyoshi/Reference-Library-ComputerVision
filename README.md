@@ -41,3 +41,8 @@ Key Point Detection
 Image Captioning
 - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) by O. Vinyals et al., 2014.
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) by K. Xu et al., 2015.
+- [Learning CNN-LSTM Architectures for Image Caption Generation](https://cs224d.stanford.edu/reports/msoh.pdf) by Moses Soh, 2016.
+
+## SLAM
+- [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
+
